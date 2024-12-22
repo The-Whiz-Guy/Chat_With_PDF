@@ -100,3 +100,4 @@ ModuleNotFoundError("No module named 'faiss.swigfaiss_avx2'")
 2024-12-21 23:26:05,506 - INFO - Starting Streamlit app.
 2024-12-21 23:26:18,686 - INFO - Creating and saving FAISS vector store.
 2024-12-21 23:26:18,686 - INFO - FAISS vector store saved successfully.
+
