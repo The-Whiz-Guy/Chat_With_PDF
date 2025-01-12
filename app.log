@@ -11,3 +11,27 @@
 2025-01-12 20:57:40,481 - INFO - API key stored successfully.
 2025-01-12 20:57:53,631 - INFO - Load pretrained SentenceTransformer: hkunlp/instructor-large
 2025-01-12 20:57:54,849 - INFO - Load pretrained SentenceTransformer: hkunlp/instructor-large
+2025-01-12 21:10:19,090 - INFO - NumExpr defaulting to 8 threads.
+2025-01-12 21:10:19,993 - INFO - Load pretrained SentenceTransformer: hkunlp/instructor-large
+2025-01-12 21:10:24,090 - INFO - Use pytorch device: cuda
+2025-01-12 21:10:24,090 - INFO - Starting Streamlit app.
+2025-01-12 21:10:40,958 - INFO - Load pretrained SentenceTransformer: hkunlp/instructor-large
+2025-01-12 21:10:44,455 - INFO - Load pretrained SentenceTransformer: hkunlp/instructor-large
+2025-01-12 21:10:45,862 - INFO - Use pytorch device: cuda
+2025-01-12 21:10:45,862 - INFO - Starting Streamlit app.
+2025-01-12 21:10:51,238 - INFO - Use pytorch device: cuda
+2025-01-12 21:10:51,239 - INFO - Starting Streamlit app.
+2025-01-12 21:10:54,766 - INFO - Load pretrained SentenceTransformer: hkunlp/instructor-large
+2025-01-12 21:10:54,915 - INFO - Load pretrained SentenceTransformer: hkunlp/instructor-large
+2025-01-12 21:11:07,452 - INFO - Use pytorch device: cuda
+2025-01-12 21:11:07,467 - INFO - Starting Streamlit app.
+2025-01-12 21:11:11,700 - INFO - Use pytorch device: cuda
+2025-01-12 21:11:11,700 - INFO - Starting Streamlit app.
+2025-01-12 21:11:11,706 - INFO - API key stored successfully.
+2025-01-12 21:11:22,100 - INFO - Load pretrained SentenceTransformer: hkunlp/instructor-large
+2025-01-12 21:11:26,253 - INFO - Use pytorch device: cuda
+2025-01-12 21:11:26,254 - INFO - Starting Streamlit app.
+2025-01-12 21:11:31,811 - INFO - Load pretrained SentenceTransformer: hkunlp/instructor-large
+2025-01-12 21:11:35,381 - INFO - Use pytorch device: cuda
+2025-01-12 21:11:35,382 - INFO - Starting Streamlit app.
+2025-01-12 21:11:35,385 - INFO - Creating vector database from PDF text.
