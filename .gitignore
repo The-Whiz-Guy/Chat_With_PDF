@@ -1,7 +1,17 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+
+# Virtual environment directories
+.venv/
+env/
+venv/
+Chatvenv310/
+
+# Python environment and temporary files
 .env
-.venv
-__pycache__
-.deepsource.toml
-downloads/
+*.tgz
+*.tar.gz
+
+# Temporary files and cache
+cache/
 faiss_index/
-developer-pack/

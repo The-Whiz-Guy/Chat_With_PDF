@@ -1,0 +1,13 @@
+2025-01-12 20:57:15,700 - INFO - NumExpr defaulting to 8 threads.
+2025-01-12 20:57:16,595 - INFO - Load pretrained SentenceTransformer: hkunlp/instructor-large
+2025-01-12 20:57:20,464 - INFO - Use pytorch device: cuda
+2025-01-12 20:57:20,465 - INFO - Starting Streamlit app.
+2025-01-12 20:57:29,094 - INFO - Load pretrained SentenceTransformer: hkunlp/instructor-large
+2025-01-12 20:57:29,266 - INFO - Load pretrained SentenceTransformer: hkunlp/instructor-large
+2025-01-12 20:57:37,606 - INFO - Use pytorch device: cuda
+2025-01-12 20:57:37,625 - INFO - Starting Streamlit app.
+2025-01-12 20:57:40,472 - INFO - Use pytorch device: cuda
+2025-01-12 20:57:40,472 - INFO - Starting Streamlit app.
+2025-01-12 20:57:40,481 - INFO - API key stored successfully.
+2025-01-12 20:57:53,631 - INFO - Load pretrained SentenceTransformer: hkunlp/instructor-large
+2025-01-12 20:57:54,849 - INFO - Load pretrained SentenceTransformer: hkunlp/instructor-large
